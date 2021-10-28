@@ -17,7 +17,7 @@ controls = ["Humidity:",
             "Voltage"]
 
 
-def execute(self):
+def load_csv_file(self):
     string = ''.join(self.data.values())
     print(self.data)
     with open(csv_file, 'a', newline='\n') as file:
@@ -62,7 +62,7 @@ def create_bar():
 
 if __name__ == "__main__":
     timeout = {"minutes": 10}
-    mqtt_client = MQTTClient(22, topics, controls, execute, timeout=timeout)
+    mqtt_client = MQTTClient(22, topics, controls, load_csv_file, timeout=timeout)
     create_linear()
     create_pie()
     create_bar()

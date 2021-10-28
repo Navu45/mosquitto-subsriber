@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<all>
+	<data_from_sensors>
+		<item>
+			<Current_Motion>335</Current_Motion>
+			<Air_Quality/>
+			<Humidity/>
+			<key name="1-wire DS18B20"/>
+			<Time>22/10/2021 15:00:52</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>125</Current_Motion>
+			<Air_Quality/>
+			<Humidity>40.7</Humidity>
+			<key name="1-wire DS18B20">24.0625</key>
+			<Time>22/10/2021 15:00:52</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>119</Current_Motion>
+			<Air_Quality/>
+			<Humidity>40.7</Humidity>
+			<key name="1-wire DS18B20">24.0625</key>
+			<Time>22/10/2021 15:00:52</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>153</Current_Motion>
+			<Air_Quality/>
+			<Humidity>40.7</Humidity>
+			<key name="1-wire DS18B20">24.0625</key>
+			<Time>22/10/2021 15:00:52</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>363</Current_Motion>
+			<Air_Quality/>
+			<Humidity>40.7</Humidity>
+			<key name="1-wire DS18B20">24.0625</key>
+			<Time>22/10/2021 15:00:52</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>731</Current_Motion>
+			<Air_Quality/>
+			<Humidity>41.6</Humidity>
+			<key name="1-wire DS18B20"/>
+			<Time>22/10/2021 15:04:28</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>143</Current_Motion>
+			<Air_Quality/>
+			<Humidity>41.7</Humidity>
+			<key name="1-wire DS18B20">24.1875</key>
+			<Time>22/10/2021 15:04:28</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>427</Current_Motion>
+			<Air_Quality/>
+			<Humidity>41.8</Humidity>
+			<key name="1-wire DS18B20">24.1875</key>
+			<Time>22/10/2021 15:04:28</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>395</Current_Motion>
+			<Air_Quality/>
+			<Humidity>41.8</Humidity>
+			<key name="1-wire DS18B20">24.1875</key>
+			<Time>22/10/2021 15:04:28</Time>
+			<Box_number>22</Box_number>
+		</item>
+		<item>
+			<Current_Motion>395</Current_Motion>
+			<Air_Quality/>
+			<Humidity>41.8</Humidity>
+			<key name="1-wire DS18B20">24.1875</key>
+			<Time>22/10/2021 15:04:28</Time>
+			<Box_number>22</Box_number>
+		</item>
+	</data_from_sensors>
+</all>

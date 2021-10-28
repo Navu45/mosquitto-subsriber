@@ -1,82 +1,82 @@
 {
     "data_from_sensors": [
         {
-            "Current Motion:": "335",
-            "Air Quality (VOC):": "",
+            "Current Motion": "335",
+            "Air Quality": "",
             "Humidity": "",
-            "1-wire DS18B20": "",
+            "Sensor 1-wire DS18B20": "",
             "Time": "22/10/2021 15:00:52",
             "Box number": 22
         },
         {
-            "Current Motion:": "125",
-            "Air Quality (VOC):": "",
+            "Current Motion": "125",
+            "Air Quality": "",
             "Humidity": "40.7",
-            "1-wire DS18B20": "24.0625",
+            "Sensor 1-wire DS18B20": "24.0625",
             "Time": "22/10/2021 15:00:52",
             "Box number": 22
         },
         {
-            "Current Motion:": "119",
-            "Air Quality (VOC):": "",
+            "Current Motion": "119",
+            "Air Quality": "",
             "Humidity": "40.7",
-            "1-wire DS18B20": "24.0625",
+            "Sensor 1-wire DS18B20": "24.0625",
             "Time": "22/10/2021 15:00:52",
             "Box number": 22
         },
         {
-            "Current Motion:": "153",
-            "Air Quality (VOC):": "",
+            "Current Motion": "153",
+            "Air Quality": "",
             "Humidity": "40.7",
-            "1-wire DS18B20": "24.0625",
+            "Sensor 1-wire DS18B20": "24.0625",
             "Time": "22/10/2021 15:00:52",
             "Box number": 22
         },
         {
-            "Current Motion:": "363",
-            "Air Quality (VOC):": "",
+            "Current Motion": "363",
+            "Air Quality": "",
             "Humidity": "40.7",
-            "1-wire DS18B20": "24.0625",
+            "Sensor 1-wire DS18B20": "24.0625",
             "Time": "22/10/2021 15:00:52",
             "Box number": 22
         },
         {
-            "Current Motion:": "731",
-            "Air Quality (VOC):": "",
+            "Current Motion": "731",
+            "Air Quality": "",
             "Humidity": "41.6",
-            "1-wire DS18B20": "",
+            "Sensor 1-wire DS18B20": "",
             "Time": "22/10/2021 15:04:28",
             "Box number": 22
         },
         {
-            "Current Motion:": "143",
-            "Air Quality (VOC):": "",
+            "Current Motion": "143",
+            "Air Quality": "",
             "Humidity": "41.7",
-            "1-wire DS18B20": "24.1875",
+            "Sensor 1-wire DS18B20": "24.1875",
             "Time": "22/10/2021 15:04:28",
             "Box number": 22
         },
         {
-            "Current Motion:": "427",
-            "Air Quality (VOC):": "",
+            "Current Motion": "427",
+            "Air Quality": "",
             "Humidity": "41.8",
-            "1-wire DS18B20": "24.1875",
+            "Sensor 1-wire DS18B20": "24.1875",
             "Time": "22/10/2021 15:04:28",
             "Box number": 22
         },
         {
-            "Current Motion:": "395",
-            "Air Quality (VOC):": "",
+            "Current Motion": "395",
+            "Air Quality": "",
             "Humidity": "41.8",
-            "1-wire DS18B20": "24.1875",
+            "Sensor 1-wire DS18B20": "24.1875",
             "Time": "22/10/2021 15:04:28",
             "Box number": 22
         },
         {
-            "Current Motion:": "395",
-            "Air Quality (VOC):": "",
+            "Current Motion": "395",
+            "Air Quality": "",
             "Humidity": "41.8",
-            "1-wire DS18B20": "24.1875",
+            "Sensor 1-wire DS18B20": "24.1875",
             "Time": "22/10/2021 15:04:28",
             "Box number": 22
         }

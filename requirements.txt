@@ -1,6 +1,4 @@
-paramiko~=2.8.0
-schedule~=1.1.0
-Twisted~=21.7.0
-paho-mqtt~=1.6.1
 matplotlib~=3.4.3
 numpy~=1.21.3
+json2xml~=3.8.4
+paho-mqtt~=1.6.1
